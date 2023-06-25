@@ -16,6 +16,7 @@
 		1720D3652A4752C10042D847 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1720D3642A4752C10042D847 /* Extensions.swift */; };
 		1720D3672A4753F30042D847 /* AdjustmentGrabHandleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1720D3662A4753F30042D847 /* AdjustmentGrabHandleView.swift */; };
 		1720D3692A475A7E0042D847 /* AnimationSampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1720D3682A475A7E0042D847 /* AnimationSampleView.swift */; };
+		17A6B7132A47620800A59C38 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 17A6B7122A47620800A59C38 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		1720D3642A4752C10042D847 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		1720D3662A4753F30042D847 /* AdjustmentGrabHandleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdjustmentGrabHandleView.swift; sourceTree = "<group>"; };
 		1720D3682A475A7E0042D847 /* AnimationSampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSampleView.swift; sourceTree = "<group>"; };
+		17A6B7122A47620800A59C38 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 		1720D3462A474D7B0042D847 = {
 			isa = PBXGroup;
 			children = (
+				17A6B7122A47620800A59C38 /* README.md */,
 				1720D3512A474D7B0042D847 /* AnimationExplorer */,
 				1720D3502A474D7B0042D847 /* Products */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17A6B7132A47620800A59C38 /* README.md in Resources */,
 				1720D35A2A474D7C0042D847 /* Preview Assets.xcassets in Resources */,
 				1720D3572A474D7C0042D847 /* Assets.xcassets in Resources */,
 			);
